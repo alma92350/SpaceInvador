@@ -16,7 +16,7 @@ const playerImage = new Image();
 playerImage.src = "player.png";
 
 const enemyImage = new Image();
-enemyImage.src = "enemy.png";
+enemyImage.src = "enemi.png";
 
 const bulletImage = new Image();
 bulletImage.src = "bullet.png";
